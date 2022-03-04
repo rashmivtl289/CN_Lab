@@ -1,3 +1,4 @@
+/*1. Write a program for distance vector algorithm to find suitable path for transmission.*/
 #include<stdio.h>
 int a[10][10],n;
 int min(int a, int b)
