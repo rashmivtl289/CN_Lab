@@ -1,0 +1,9 @@
+$1 represent action
+$2 time
+$3 node id
+$4 layer
+$5 flags
+$6 seqno
+$7 type
+$8 size
+$11 dropping
